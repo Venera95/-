@@ -53,4 +53,3 @@ Input:
 Output:
 throws Exception //т.к. формат математической операции не удовлетворяет заданию - два операнда и один оператор (+, -, /, *)
 ```
-- [Telegram](https://t.me/dmitrii_derendyaev)
